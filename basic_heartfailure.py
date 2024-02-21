@@ -5,7 +5,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, roc_auc_score
 import joblib
 
-# Specify the path to the training data
+# Specify the path to the training data error
 train_data = 'heart_failure_clinical_records_dataset.csv'
 
 # Load the dataset
